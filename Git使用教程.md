@@ -150,3 +150,19 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 2. 合并dev分支，使用命令 `git merge –no-ff  -m “注释” dev`
 3. 查看历史记录: `git log --graph --pretty=oneline --abbrev-commit`
 
+
+
+
+#### 冲突问题：
+
+> https://www.cnblogs.com/startcaft/p/6639709.html
+
+#### 1. 不会发生冲突：
+
+- 现在master中修改test.txt文件，git add，git commit。
+- 再新建分支newmaster，在该分支中修改test.txt文件，git add，git commit
+- git checkout master到master分支，git merge newmaster 合并分支
+- 不发生冲突
+- git log --graph --pretty=oneline --abbrev-commit显示提交信息
+
+#### 2. 
