@@ -3,8 +3,6 @@
 44444444
 66666666
 777777777
-<<<<<<< HEAD
-99999999
-=======
-88888888
->>>>>>> fenzhi01
+aaaaaaaaaa
+bbbbbbbbbbb
+ccccccccccccccc
