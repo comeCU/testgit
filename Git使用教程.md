@@ -44,11 +44,10 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
 - git log：查看文件版本日志信息
 
-  ![Git001](D:\Users\Administrator\Documents\截图文件\Git001.png)
-
-  ![Git002](D:\Users\Administrator\Documents\截图文件\Git002.png)
+  ![Git001](D:\MySoftTools\Git\Git使用方法\testgit\img\Git001.png)
 
 
+  ![Git002](D:\MySoftTools\Git\Git使用方法\testgit\img\Git002.png)
 
 ### 版本回退：
 
@@ -103,11 +102,11 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
    - 弹出GitHub登录框，输入用户名密码登录。
 
-     ![Git003](D:\Users\Administrator\Documents\截图文件\Git003.png)
+     ![Git003](D:\MySoftTools\Git\Git使用方法\testgit\img\Git003.png)
 
    - 在Github查看版本库：
 
-     ![Git004](D:\Users\Administrator\Documents\截图文件\Git004.png)
+     ![Git004](D:\MySoftTools\Git\Git使用方法\testgit\img\Git004.png)
 
    - **注：**之后只要在本地作了提交，就可以：git push origin master
 
@@ -121,7 +120,7 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
 2. 使用命令：git clone https://github.com/comeCU/testgit2
 
-   ![Git005](D:\Users\Administrator\Documents\截图文件\Git005.png)
+   ![Git005](D:\MySoftTools\Git\Git使用方法\testgit\img\Git005.png)
 
 3. 克隆别人的库只需将后面的用户名和库名**换成相应的即可**
 
