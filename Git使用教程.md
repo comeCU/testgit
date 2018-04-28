@@ -1,8 +1,10 @@
 # Git
 
-入门使用教程博客：https://blog.csdn.net/youzhouliu/article/details/78952453
+> 入门使用教程博客：https://blog.csdn.net/youzhouliu/article/details/78952453
+>
 
-Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
+> Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
+>
 
 
 
@@ -12,7 +14,7 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
    修改：git config --global user.name "newusername"
 
-   https://blog.csdn.net/autoliuweijie/article/details/52230165
+   > https://blog.csdn.net/autoliuweijie/article/details/52230165
 
 2. ​
 
@@ -28,7 +30,7 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
 1. git config --global --list 查看用户信息
 
-   https://www.cnblogs.com/merray/p/6006411.html
+   > https://www.cnblogs.com/merray/p/6006411.html
 
 
 ### 创建版本库：
@@ -164,4 +166,19 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 - 不发生冲突
 - git log --graph --pretty=oneline --abbrev-commit显示提交信息
 
-#### 2. 
+#### 2.（详情查看链接） 
+
+
+
+### master和rebase：
+
+> https://www.cnblogs.com/kym/archive/2010/08/12/1797937.html
+
+
+
+### 用Github做远程图床：
+
+1. 在库中新建img文件夹
+2. 链入图片路径更改为：![image](https://github.com/comeCU/testgit/raw/master/img/Git00.png) 这种格式。
+3. 此方法可为typora设置图床！
+
