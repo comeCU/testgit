@@ -44,7 +44,7 @@ Linux回车换行：https://www.cnblogs.com/helloHKTK/p/7351946.html
 
 - git log：查看文件版本日志信息
 
-  ![Git001](D:\MySoftTools\Git\Git使用方法\testgit\img\Git001.png)
+  (http://github.com/comeCU/testgit/img/Git001.png)
 
 
   ![Git002](D:\MySoftTools\Git\Git使用方法\testgit\img\Git002.png)
