@@ -179,6 +179,6 @@
 ### 用Github做远程图床：
 
 1. 在库中新建img文件夹
-2. 链入图片路径更改为：![image](https://github.com/comeCU/testgit/raw/master/img/Git00.png) 这种格式。
+2. 链入图片路径更改为："!\[image\](https://github.com/comeCU/testgit/raw/master/img/Git00.png) "这种格式。
 3. 此方法可为typora设置图床！
 
