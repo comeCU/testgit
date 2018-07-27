@@ -8,6 +8,12 @@
 
 
 
+## Git关键字
+
+![image](https://github.com/comeCU/testgit/raw/master/img/Git000.png)
+
+> 图片来源https://www.cnblogs.com/junhuawang/p/7054745.html
+
 ## Git常用命令：
 
 1. 查看用户名和邮箱：git config user.name/email
